@@ -1,0 +1,43 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<videojuegos>
+	<videojuego>
+		<nombre>Gear of War 4</nombre>
+		<precio>900</precio>
+		<genero>disparos</genero>
+		<modo>3</modo>
+		<anio>2015</anio>
+		<consola>xbox</consola>
+	</videojuego>
+	<videojuego>
+		<nombre>Halo 5</nombre>
+		<precio>700</precio>
+		<genero>disparos</genero>
+		<modo>1</modo>
+		<anio>2015</anio>
+		<consola>xbox</consola>
+	</videojuego>
+	<videojuego>
+		<nombre>Call of duty</nombre>
+		<precio>600</precio>
+		<genero>disparos</genero>
+		<modo>1</modo>
+		<anio>2015</anio>
+		<consola>xbox</consola>
+	</videojuego>
+	<videojuego>
+		<nombre>Kill Zone</nombre>
+		<precio>1000</precio>
+		<genero>disparos</genero>
+		<modo>1</modo>
+		<anio>2015</anio>
+		<consola>ps</consola>
+	</videojuego>
+	<videojuego>
+		<nombre>Slender Man</nombre>
+		<precio>50</precio>
+		<genero>miedo</genero>
+		<modo>1</modo>
+		<anio>2012</anio>
+		<consola>pc</consola>
+	</videojuego>
+</videojuegos>
